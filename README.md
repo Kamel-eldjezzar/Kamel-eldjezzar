@@ -1,16 +1,27 @@
-## Hi there 👋
+![Bannière](https://i.imgur.com/3ZQ3Z4z.png)
 
-<!--
-**Kamel-eldjezzar/Kamel-eldjezzar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Salut, je suis Kamel
 
-Here are some ideas to get you started:
+## 💻 Étudiant en informatique
+- 🔭 Actuellement je travaille sur des projets en C et C++
+- 🌱 J'apprends JavaScript et le développement web
+- 🚀 Objectif : contribuer à des projets open-source et améliorer mes compétences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Compétences
+![C](https://img.shields.io/badge/Code-C-blue)
+![C++](https://img.shields.io/badge/Code-C++-brightgreen)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
+![Git](https://img.shields.io/badge/Tools-Git-orange)
+
+### 📊 Statistiques GitHub
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Kamel-eldjezzar&show_icons=true&theme=radical)
+
+![Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamel-eldjezzar&layout=compact&theme=radical)
+
+### 📫 Me contacter
+- Email : eldjezzarkamel@example.com
+- LinkedIn : [ELDJEZZAR KAMEL](https://linkedin.com)
+
+---
+
+> *“Le code est comme l’humour, quand tu dois l’expliquer, il n’est pas bon.”*
