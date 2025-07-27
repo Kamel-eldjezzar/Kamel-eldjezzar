@@ -1,4 +1,4 @@
-![Bannière](https://i.imgur.com/3ZQ3Z4z.png)
+![Bannière](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 # 👋 Salut, je suis Kamel
 
@@ -19,7 +19,7 @@
 ![Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamel-eldjezzar&layout=compact&theme=radical)
 
 ### 📫 Me contacter
-- Email : eldjezzarkamel@example.com
+- Email : eldjezzarkamel@gmail.com
 - LinkedIn : [ELDJEZZAR KAMEL](https://linkedin.com)
 
 ---
