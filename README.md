@@ -1,4 +1,4 @@
-![Bannière](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+![Bannière](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bienvenue%20sur%20mon%20profil%20GitHub!&fontSize=35&fontColor=ffffff&animation=fadeIn)
 
 # 👋 Salut, je suis Kamel
 
