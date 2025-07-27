@@ -11,6 +11,7 @@
 ![C](https://img.shields.io/badge/Code-C-blue)
 ![C++](https://img.shields.io/badge/Code-C++-brightgreen)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
+![HTML](https://img.shields.io/badge/Code-HTML-orange)
 ![Git](https://img.shields.io/badge/Tools-Git-orange)
 
 ### 📊 Statistiques GitHub
