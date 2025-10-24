@@ -1,7 +1,6 @@
 ![Bannière](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bienvenue%20sur%20mon%20profil%20GitHub!&fontSize=35&fontColor=ffffff&animation=fadeIn)
 
 # 👋 Hi, I'm Kamel
-
 ## 💻 Computer Science Student
 - 🔭 Currently working on projects in C and C++
 - 🌱 Learning JavaScript and web development
