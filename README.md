@@ -1,12 +1,12 @@
 ![Bannière](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bienvenue%20sur%20mon%20profil%20GitHub!&fontSize=35&fontColor=ffffff&animation=fadeIn)
 
-# 👋 Salut, je suis Kamel
+# 👋 Hi, I'm Kamel
 
-## 💻 Étudiant en informatique
-- 🔭 Actuellement je travaille sur des projets en C et C++
-- 🌱 J'apprends JavaScript et le développement web
-- 🚀 Objectif : contribuer à des projets open-source et améliorer mes compétences
-
+## 💻 Computer Science Student
+- 🔭 Currently working on projects in C and C++
+- 🌱 Learning JavaScript and web development
+- 🚀 Goal: Contribute to open-source projects and enhance my skills
+  
 ### 🛠️ Compétences
 ![C](https://img.shields.io/badge/Code-C-blue)
 ![C++](https://img.shields.io/badge/Code-C++-brightgreen)
